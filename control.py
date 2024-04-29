@@ -6,7 +6,7 @@ def calculate_discount(price, discount_percent):
         return price
 
 # Original price and discount percentage
-original_price = 3000
+original_price = 4500
 discount_percent = 25
 
 # Calculate the final price using the function
